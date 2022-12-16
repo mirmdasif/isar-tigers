@@ -1,0 +1,13 @@
+.navbar-brand{ 
+    background-image: url(/logo.png);
+      width: 60px;
+      height: 60px;
+      display: inline-block;
+      background-size: 200% 200%;
+      background-position: center;
+  }
+
+  .nav-link {
+    color: white;
+    font-family: "montserrat-semiBold",sans-serif;
+  }
