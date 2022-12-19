@@ -29,7 +29,7 @@ export default () =>
       <Carousel interval={3000}>
         <Carousel.Item>
           <img className="d-block w-100" src="/generelmeeting.jpeg" alt="First slide"
-              style={{width: '100%',  height : '80vh', objectFit:'cover'}}
+              style={{width: '100%',  height : '90vh', objectFit:'cover'}}
           />
           <Carousel.Caption>
             <h3>GENERAL MEETING</h3>
@@ -38,7 +38,7 @@ export default () =>
         </Carousel.Item>
         <Carousel.Item>
           <img fluid className="d-block w-100" src="/newclub.jpg" alt="First slide"
-            style={{width: '100%',  height : '80vh', objectFit:'cover'}}
+            style={{width: '100%',  height : '90vh', objectFit:'cover'}}
           />
           <Carousel.Caption>
             <h3>A NEW CLUB IN NRW</h3>
@@ -47,7 +47,7 @@ export default () =>
         </Carousel.Item>
         <Carousel.Item>
           <img fluid className="d-block w-100" src="/practice.jpg" alt="First slide"
-            style={{width: '100%',  height : '80vh', objectFit:'cover'}}
+            style={{width: '100%',  height : '90vh', objectFit:'cover'}}
           />
           <Carousel.Caption>
               <h3>THE FIRST EVER PRACTICE</h3>
