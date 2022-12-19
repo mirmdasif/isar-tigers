@@ -11,3 +11,7 @@
     color: white;
     font-family: "montserrat-semiBold",sans-serif;
   }
+
+  .carousel-caption {
+    background-color: #033b3240;
+  }
